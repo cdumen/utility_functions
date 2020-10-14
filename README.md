@@ -1,2 +1,2 @@
 # utility_functions
-most common used function that I wrote
+most common used functions that I wrote
